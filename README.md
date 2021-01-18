@@ -14,3 +14,10 @@ KRAZYB0T is a python3 tool that allows you to spam messages easily !
 Tested on :
   - Linux/MacOS/Windows
   - Discord, GTA V CHAT, Instagram, Facebook, Omegle...
+  
+# Modules you need to install :
+  - pyautogui
+  - colorama
+  
+Works on :
+Python 3.X.X
