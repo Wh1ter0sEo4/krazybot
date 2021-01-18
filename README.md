@@ -21,3 +21,6 @@ Tested on :
   
 Works on :
 Python 3.X.X
+
+
+made with ❤️ by elliot aka wh1ter0seo4
